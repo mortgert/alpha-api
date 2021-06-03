@@ -3,32 +3,52 @@ A Weather Application API
 
 # Project 2
 
-Technology frameworks Used: 
+Technology frameworks Used:
+
 [ ] Java API will use Hibernate to communicate with a PostGreSQL RDBMS 
+
 [ ] Java API will leverage the Spring Framework 
+
 [ ] Java API will be RESTful (no `HttpSession`, use JWTs!)
+
 [ ] Complete CI/CD pipelines will use AWS (CodePipeline, CodeBuild, Elastic Beanstalk, and S3)
+
 [ ] PostGreSQL RDBMS for persistence 
+
 [ ] API built with Java 8 and Spring 5
+
 [ ] UI built with HTML, CSS, and JS (Using NodeJS is highly encouraged, though React is optional)
  
 
 Other requirements: 
+
 [ ] Application will demonstrate at least ten individual user stories 
+
 [ ] Application will leverage at least one external API 
+
 [ ] Application's own data model must be sufficiently complex (i.e. >2 tables) 
+
 [ ] RDBMS will be deployed to the cloud (AWS RDS) 
+
 [ ] Java API will be deployed to the cloud (AWS EC2) 
+
 [ ] UI application will be deployed to the cloud (AWS S3) 
+
 [ ] Java API will have >=80% test coverage for service layer
+
 [ ] Java API will leverage Spring's MockMvc for integration/e2e tests of controller endpoints
+
 [ ] Java API will be adequately documents (Java Docs and web endpoint documentation [Swagger/OpenAPI])
 
 
 Suggested bonus goals:
+
 [ ] Deploy API using ECS w/ Docker (instead of Elastic Beanstalk)
+
 [ ] Secure your Java API using Spring Security
+
 [ ] Unit test your UI application's JS using the Jest testing framework
+
  
 ## Other Thoughts
 The project concepts must be approved by the trainer. Remember to keep user stories clear and unambiguous. Keep in mind that you only have 2 weeks to work on this project so make your MVP something attainable. 
